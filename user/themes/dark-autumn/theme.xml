@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pluggable type="theme">
+	<name>Dark Autumn</name>
+	<author>Ali B.</author>
+	<url>http://awhitebox.com</url>
+	<version>1.2</version>
+	<guid>5be18cd1-74b6-4d32-b77d-970aab70b4ba</guid>
+	<template_engine>rawphpengine</template_engine>
+	<description>An original habari theme brought to you by awhitebox.</description>
+	<license url="http://www.apache.org/licenses/ALICENSE-2.0.html">Apache Software License 2.0</license> 
+</pluggable>
